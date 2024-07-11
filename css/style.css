@@ -47,6 +47,11 @@ body{
 	margin: 0 3rem;
 	color: var(--orange);
 }
+.goog-te-combo{
+	width: 130px;
+	height: 20px;
+	font-size: 20px;
+}
 .header nav ul{
 	list-style-type: none;
 	display: flex;
